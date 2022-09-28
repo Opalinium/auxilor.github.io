@@ -5,18 +5,18 @@ sidebar_position: 5
 
 ## What are custom GUI slots?
 
-When configuring a GUI in a plugin, you might stumble accross this:
+When configuring a GUI in a plugin, you might stumble across this:
 
 ```yaml
 # Custom GUI slots; see here for a how-to: https://plugins.auxilor.io/all-plugins/custom-gui-slots
 custom-slots: []
 ```
 
-This means you can add custom items (with commands) to your GUIs for that extra layer of customisability.
+This means you can add custom items (with commands) to your GUIs for that extra layer of customizability.
 
 ## How to make a custom GUI slot
 
-Quite simply, a GUI slot looks like this:
+Put simply, a GUI slot looks like this:
 
 ```yaml
 custom-slots:
